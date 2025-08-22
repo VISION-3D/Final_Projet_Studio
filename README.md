@@ -1,21 +1,49 @@
-# Movies App
+Free Movies App
 
-**Description :**  
-Une application de films qui permet de rechercher des films via l'API TMDb et d'afficher les résultats sous forme de cartes avec poster, titre et description.
+Une petite application web qui permet de découvrir et regarder gratuitement 15 films complets disponibles sur YouTube, avec recherche et affichage des affiches officielles depuis TMDb.
 
-**Technologies utilisées :**  
-- HTML
-- CSS
-- JavaScript (Fetch API)
-- API TMDb
+🌐 Déployée sur GitHub Pages : [Cliquez ici pour voir l'application](https://vision-3d.github.io/Final_Projet_Studio/)
 
-**Fonctionnalités :**  
-- Recherche de films
-- Affichage des résultats sous forme de cartes
-- Cartes bien structurées avec poster et description
-- Films gratuits disponibles pour tester l’application
 
-**Comment lancer le projet :**  
-1. Clonez le dépôt :  
-   ```bash
-   git clone https://github.com/votre-utilisateur/movies-app.git
+
+Fonctionnalités
+
+ Liste de **15 films gratuits YouTube**
+ Affiches officielles grâce à **TMDb**
+ Recherche rapide par titre de film
+ Lancement du film directement dans YouTube au clic
+ Interface responsive (mobile et desktop)
+
+
+
+Technologies utilisées
+
+HTML5
+CSS3
+JavaScript (Vanilla)
+GitHub Pages (pour le déploiement)
+TMDb API (pour les affiches des films)
+YouTube (sources vidéos)
+
+---
+
+Structure du projet
+
+```
+Final_Projet_Studio/
+│── index.html        # Page principale
+│── style.css         # Styles
+│── script.js         # Logique JavaScript
+│── README.md         # Documentation
+```
+
+ Déploiement
+
+1. Le projet est hébergé sur GitHub Pages
+2. Accéder à l’application ici :
+   👉 [https://vision-3d.github.io/Final\_Projet\_Studio/](https://vision-3d.github.io/Final_Projet_Studio/)
+
+
+Auteur
+
+Projet réalisé par Saliou Sène
